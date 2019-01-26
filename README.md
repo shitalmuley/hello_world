@@ -1,2 +1,3 @@
 # hello_world
-this is my first repository
+Hello myself shital!!
+I studying in final year (btech), in computer science and engineering stream
